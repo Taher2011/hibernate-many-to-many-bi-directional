@@ -1,0 +1,1 @@
+# hibernate-many-to-many-bi-directional
